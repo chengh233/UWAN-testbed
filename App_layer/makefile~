@@ -1,0 +1,8 @@
+Applayer:Applayer.o shm_oper.o
+        gcc -o Applayer Applayer.o shm_oper.o
+Applayer.o:Applayer.c shm_oper.h
+        gcc -c Applayer.c
+shm_oper.o:shm_oper.c shm_oper.h
+        gcc -c shm_oper.c
+clean:
+        rm -rf *.o Applayer

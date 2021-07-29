@@ -1,0 +1,14 @@
+------------------- Log file for APPLICATION layer -------------------
+
+
+[2021-05-01 14:28:42.1856] NODE[01] APP_LAYER: Application layer all set!
+
+[2021-05-01 14:37:03.7864] Completely send all data in the file!
+
+[2021-05-01 14:37:03.7866] APP_LAYER: Now start exiting the program...
+[2021-05-01 14:37:23.7862] APP_LYAER: Wait for the safe exit of MAC layer...
+[2021-05-01 14:37:23.7863] APP_LAYER: MAC layer EXIT successfully!
+[2021-05-01 14:37:23.7866] APP_LAYER: Exit program successfully!
+
+----------------------- End of log file -----------------------
+
